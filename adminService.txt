@@ -2,7 +2,7 @@ add and remove users
  change the roles
 
  manage the database
- closing the database  connection
+ closing the  my sql database  connection
 
  change 1
  change 2 in my database
